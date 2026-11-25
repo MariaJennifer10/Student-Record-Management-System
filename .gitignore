@@ -1,0 +1,6 @@
+*.o
+student
+*.swp
+*.swo
+student.dat
+student_backup.dat
